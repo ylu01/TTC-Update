@@ -1,2 +1,2 @@
 # TTC-Update
-Simple app that shows what's happening in the TTC. 
+Simple app that uses Twitter widgets to show what is happening on the Toronto Transit Commission(TTC) on their twitter feed @TTCNotices. 

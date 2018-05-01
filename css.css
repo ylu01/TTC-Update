@@ -65,9 +65,10 @@ p{
 
 #twitter-news{
 	font-size:150%;
+	color:red;
   position:absolute;
   border:1px solid #1155cc;
-  padding: 25px; 
+  padding: 55px; 
   width: 336px;
   font-size: 1.25em;
    background: -webkit-linear-gradient(top, #65a9d7, #dae2e8);

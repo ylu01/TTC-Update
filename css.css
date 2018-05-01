@@ -50,9 +50,11 @@
   font-size: 1em; 
   
 }
-/* For mobile phones: */
-[class*="col-"] {
-  width:100% !important;
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+    }
 }
 @media only screen and (min-width: 768px) {
     /* For desktop: */

@@ -92,6 +92,7 @@ p{
 /* For mobile phones: */
 [class*="col-"] {
     width: 50%;
+	color:red;
 }
 @media only screen and (min-width: 600px) {
     /* For tablets: */

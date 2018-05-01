@@ -64,7 +64,7 @@ table {
   padding: 10px; 
   width: 1336px;
   font-size: 1.25em;
-   background: -webkit-linear-gradient(top, red, #dae2e8);
+   background: -webkit-linear-gradient(top, #65a9d7, #dae2e8);
    background: -moz-linear-gradient(top, #dddddd, #dae2e8);
    background: -ms-linear-gradient(top, #dddddd, #dae2e8);
    background: -o-linear-gradient(top, #dddddd, #dae2e8);
@@ -95,7 +95,7 @@ table {
 }
 /* For mobile phones: */
 [class*="col-"] {
-  width:100%;
+  width:160%;
 }
 @media only screen and (min-width: 768px) {
     /* For desktop: */

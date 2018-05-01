@@ -95,7 +95,7 @@ table {
 }
 /* For mobile phones: */
 [class*="col-"] {
-  width:160%;
+  width:150%;
 }
 @media only screen and (min-width: 768px) {
     /* For desktop: */
